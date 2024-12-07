@@ -1,5 +1,5 @@
 {
-  "HikingTrails":
+  "Recipes":
   [
     {"Name":"Pizza","Difficulty":"Mediore","Type":"Italian","Image":"https://raw.githubusercontent.com/coidaze/ITFinal/main/Pizza.jpg","Ingredient":"Pizza dough, pizza sauce, mozzarella, cheery tomatoes, basil leaves, red pepper flakes, extra-virgin olive oil","Instruction":"Preheat the oven to 500 degree F. Spread the pizza sauce and put mozzarella and tomatoes on the pizza dough. Bake for 10 minutes. Remove from the oven. Add fresh basil leaves and pepper flakes. Drizzle with olive oil","Website":"https://www.loveandlemons.com/homemade-pizza/","RestaurantAddress":"1336 Nelm Street, Washington, VA 20200"},
     {"Name":"Pho","Difficulty":"Hard","Type":"Vietnamese","Image":"https://raw.githubusercontent.com/coidaze/ITFinal/main/Pho.jpg", "Ingredient":"Meat","Instruction":"Add water and meat to pot. Boil for 5 minutes with onions, ginger, and lemongrass. Remove scum if needed. Rinse the meat with cold water and put it back into the pot. Simmer for 3 hours. Add fish sauce and sugar. Remove the meat but leave the bones. Cook the pho noodles. Add meat and broth.","Website":"https://www.recipetineats.com/vietnamese-pho-recipe/","RestaurantAddress":"4113 Jefferson Street, Hampton, VA 23669"},
